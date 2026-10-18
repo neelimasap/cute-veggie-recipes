@@ -142,5 +142,32 @@
   "license": "CC BY 2.0",
   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Nigiri_Sushi_%2826505096851%29.jpg/960px-Nigiri_Sushi_%2826505096851%29.jpg",
   "artist": "Tim Reckmann from Hamm, Deutschland"
+ },
+ "sweetpotatoroll": {
+  "title": "Geisha Roll (tempura sweet potato and avocado)",
+  "page": "https://www.flickr.com/photos/44124401501@N01/7162285016",
+  "license": "CC BY 2.0",
+  "thumb": "https://live.staticflickr.com/7090/7162285016_520d297bee_b.jpg",
+  "remote": "https://live.staticflickr.com/7090/7162285016_520d297bee_b.jpg",
+  "artist": "sylvar",
+  "source": "Flickr via Openverse"
+ },
+ "sushibowl": {
+  "title": "Crispy tofu \"sushi\" rice bowl",
+  "page": "https://www.flickr.com/photos/66722164@N00/33806676985",
+  "license": "CC BY 2.0",
+  "thumb": "https://live.staticflickr.com/3684/33806676985_b2422a91a2_b.jpg",
+  "remote": "https://live.staticflickr.com/3684/33806676985_b2422a91a2_b.jpg",
+  "artist": "veritatem",
+  "source": "Flickr via Openverse"
+ },
+ "avocadodragon": {
+  "title": "A plate of avocado sushi rolls (Turin, Italy)",
+  "page": "https://wordpress.org/photos/photo/25767d94be/",
+  "license": "CC0 1.0",
+  "thumb": "https://pd.w.org/2025/03/25767d94bea3764b9.15749200-1024x768.jpg",
+  "remote": "https://pd.w.org/2025/03/25767d94bea3764b9.15749200-1024x768.jpg",
+  "artist": "Bigul Malayi",
+  "source": "WordPress Photo Directory via Openverse"
  }
 }
